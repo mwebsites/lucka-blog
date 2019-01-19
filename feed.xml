@@ -6,9 +6,20 @@
         <link>/lucka-blog/</link>
         <atom:link href="/lucka-blog/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Sat, 19 Jan 2019 22:02:18 +0000</pubDate>
-        <lastBuildDate>Sat, 19 Jan 2019 22:02:18 +0000</lastBuildDate>
+        <pubDate>Sat, 19 Jan 2019 22:03:35 +0000</pubDate>
+        <lastBuildDate>Sat, 19 Jan 2019 22:03:35 +0000</lastBuildDate>
         <generator>Jekyll v3.8.5</generator>
+        
+        <item>
+            <title>Test</title>
+            <description>&lt;p&gt;Hello everybody !&lt;/p&gt;
+</description>
+            <pubDate>Fri, 18 Jan 2019 23:00:00 +0000</pubDate>
+            <link>/lucka-blog#/2019/01/18/test.html</link>
+            <guid isPermaLink="true">/lucka-blog#/2019/01/18/test.html</guid>
+            
+            
+        </item>
         
         <item>
             <title>A Craftsman Workshop</title>
